@@ -1,5 +1,5 @@
 {
-  "stared": [
+  "started": [
     { "id": 0, "repo": "kotlin-compile-testing", "owner": "tschuchortdev" },
     { "id": 1, "repo": "nanoscope", "owner": "uber" },
     { "id": 2, "repo": "JakeWharton", "owner": "timber" }
